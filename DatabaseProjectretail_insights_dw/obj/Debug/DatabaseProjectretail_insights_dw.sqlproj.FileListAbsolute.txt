@@ -1,0 +1,12 @@
+c:\Users\pvenkat\source\fabcon-devexp-demo\DatabaseProjectretail_insights_dw\bin\Debug\DatabaseProjectretail_insights_dw.dacpac
+c:\Users\pvenkat\source\fabcon-devexp-demo\DatabaseProjectretail_insights_dw\bin\Debug\DatabaseProjectretail_insights_dw.deps.json
+c:\Users\pvenkat\source\fabcon-devexp-demo\DatabaseProjectretail_insights_dw\bin\Debug\DatabaseProjectretail_insights_dw.dll
+c:\Users\pvenkat\source\fabcon-devexp-demo\DatabaseProjectretail_insights_dw\bin\Debug\DatabaseProjectretail_insights_dw.pdb
+c:\Users\pvenkat\source\fabcon-devexp-demo\DatabaseProjectretail_insights_dw\obj\Debug\DatabaseProjectretail_insights_dw.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\pvenkat\source\fabcon-devexp-demo\DatabaseProjectretail_insights_dw\obj\Debug\DatabaseProjectretail_insights_dw.sourcelink.json
+c:\Users\pvenkat\source\fabcon-devexp-demo\DatabaseProjectretail_insights_dw\obj\Debug\Model.xml
+c:\Users\pvenkat\source\fabcon-devexp-demo\DatabaseProjectretail_insights_dw\obj\Debug\refactor.xml
+c:\Users\pvenkat\source\fabcon-devexp-demo\DatabaseProjectretail_insights_dw\obj\Debug\postdeploy.sql
+c:\Users\pvenkat\source\fabcon-devexp-demo\DatabaseProjectretail_insights_dw\obj\Debug\predeploy.sql
+c:\Users\pvenkat\source\fabcon-devexp-demo\DatabaseProjectretail_insights_dw\obj\Debug\DatabaseProjectretail_insights_dw.dll
+c:\Users\pvenkat\source\fabcon-devexp-demo\DatabaseProjectretail_insights_dw\obj\Debug\DatabaseProjectretail_insights_dw.pdb

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "J2gp9LqhjNI=",
+  "success": true,
+  "projectFilePath": "c:\\Users\\pvenkat\\source\\fabcon-devexp-demo\\DatabaseProjectretail_insights_dw\\DatabaseProjectretail_insights_dw.sqlproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pvenkat\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\pvenkat\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net20\\1.0.3\\microsoft.netframework.referenceassemblies.net20.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
