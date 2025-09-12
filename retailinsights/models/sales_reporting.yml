@@ -1,0 +1,17 @@
+version: 2
+models:
+  - name: sales_reporting
+    description: "Aggregated sales report with promotion tracking"
+    columns:
+      - name: CustomerID
+        tests:
+          - not_null
+      - name: ProductID
+        tests:
+          - not_null
+      - name: TotalQuantity
+        tests:
+          - not_null
+      - name: NumTransactions
+        tests:
+          - not_null
