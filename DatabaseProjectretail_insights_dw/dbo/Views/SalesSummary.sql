@@ -1,4 +1,4 @@
-CREATE   VIEW SalesSummary AS
+CREATE     VIEW SalesSummary AS
 SELECT
     s.SaleDate,
     s.ProductID,

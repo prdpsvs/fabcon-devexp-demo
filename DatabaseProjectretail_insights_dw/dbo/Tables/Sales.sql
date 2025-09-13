@@ -4,7 +4,7 @@ CREATE TABLE [dbo].[Sales] (
     [ProductID]  INT  NULL,
     [Quantity]   INT  NULL,
     [SaleDate]   DATE NULL,
-    [PromotionCode] VARCHAR(50) NULL
+    [PromotionCode] [varchar](50) NULL
 );
 
 
